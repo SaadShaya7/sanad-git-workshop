@@ -3,3 +3,10 @@ mohammad miary
 
 fatal 
 Finish Him
+
+
+git checkout mohammad-hasan
+edit
+git add . 
+git commit -m "whatever"
+git push
